@@ -8,7 +8,7 @@ Sure, Yousef. Here's a **pros and cons comparison between Hostinger and GoDaddy*
 | ---------------------- | --------------------------------------------- | ---------------------------------------------- |
 | **💰 Pricing**         | ✅ Very affordable, especially long-term plans | ❌ More expensive, especially on renewals       |
 | **⚙️ Performance**     | ✅ Fast load speeds, uses LiteSpeed servers    | ⚠️ Good performance, but slower than Hostinger |
-| **📈 Uptime**          | ✅ \~99.9% reliable uptime                     | ✅ \~99.9% uptime                               |
+| **📈 Uptime**          | ✅ \~99.9% reliable uptime                     | ❌ \~99.7% uptime                               |
 | **🔧 Ease of Use**     | ✅ hPanel is clean and beginner-friendly       | ✅ cPanel available, familiar to many users     |
 | **🌐 Free Domain**     | ✅ Free domain with most plans                 | ✅ Free domain with some plans                  |
 | **🔒 Free SSL**        | ✅ Always included for free                    | ❌ Often not included or costs extra            |
